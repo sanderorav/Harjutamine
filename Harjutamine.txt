@@ -1,0 +1,2 @@
+Mina saaksin GitHubi kasutada koolitöödes.
+GitHub asutati 8. veebruaril 2008. Asutajateks on Tom Preston-Werner, Chris Wanstrath, P. J. Hyett ja Scott Chacon.
